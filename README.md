@@ -16,11 +16,11 @@ This repo contains my practice solutions to various LeetCode problems, organized
 ## ✅ Solved Problems (So far)
 
 ### Math
-1. [Water Bottles I](math/water_bottle_i.py)
-2. [Water Bottles II](math/water_bottle_ii.py)
+1. [Water Bottles I](math/water_bottle_i.py) - [Problem Link](https://leetcode.com/problems/water-bottles/)
+2. [Water Bottles II](math/water_bottle_ii.py) - [Problem Link](https://leetcode.com/problems/water-bottles-ii/)
 
 ### Arrays
-1. [Single Number](arrays/single_number.py)
+1. [Single Number](arrays/single_number.py) - [Problem Link](https://leetcode.com/problems/single-number/)
 
 ---
 
