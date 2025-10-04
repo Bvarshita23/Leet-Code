@@ -21,6 +21,7 @@ This repo contains my practice solutions to various LeetCode problems, organized
 
 ### Arrays
 1. [Single Number](arrays/single_number.py) - [Problem Link](https://leetcode.com/problems/single-number/)
+2. [Container With Most Water](arrays/container_with_most_water.py) - [Problem Link](https://leetcode.com/problems/container-with-most-water/)
 
 ---
 
